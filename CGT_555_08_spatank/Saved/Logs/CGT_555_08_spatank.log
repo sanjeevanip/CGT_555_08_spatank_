@@ -2889,3 +2889,108 @@ Script Stack (0 frames):
 [2024.01.25-22.09.16:569][409]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_08_spatank_/CGT_555_08_spatank/Saved/ABP_MannyA66A17AE46A3B3E94E4FC3B78BA31F55.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_08_spatank_/CGT_555_08_spatank/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
 [2024.01.25-22.09.16:580][409]AssetCheck: New page: Asset Save: ABP_Manny
 [2024.01.25-22.09.16:580][409]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2024.01.25-22.10.21:743][691]LogViewport: Scene viewport resized to 1858x532, mode Windowed.
+[2024.01.25-22.10.21:771][693]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.01.25-22.10.27:166][301]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2024.01.25-22.11.06:354][853]LogSlate: Window 'Project Settings' being destroyed
+[2024.01.25-22.11.06:358][853]LogSlate: Window 'Project Settings' being destroyed
+[2024.01.25-22.11.11:073][403]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2024.01.25-22.11.11:996][509]LogContentBrowser: Verbose: The majority of assets in the view are of type: Blueprint
+[2024.01.25-22.13.32:721][746]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.01.25-22.13.32:830][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.01.25-22.13.33:218][777]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.01.25-22.13.33:223][777]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_08_spatank_/CGT_555_08_spatank/Saved/BP_ThirdPersonCharacterF78450DB455EFAA1C07397B64CB13601.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_08_spatank_/CGT_555_08_spatank/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.01.25-22.13.33:238][777]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.01.25-22.13.33:238][777]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.01.25-22.14.09:170][984]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.01.25-22.14.09:252][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.01.25-22.14.09:667][ 17]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.01.25-22.14.09:672][ 17]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_08_spatank_/CGT_555_08_spatank/Saved/BP_ThirdPersonCharacter5ABF714B45E86FCDCBDD92A265D5B012.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_08_spatank_/CGT_555_08_spatank/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.01.25-22.14.09:686][ 17]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.01.25-22.14.09:686][ 17]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.01.25-22.15.34:665][124]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimBlueprint
+[2024.01.25-22.20.52:704][337]LogEditorTransaction: Undo Move Node
+[2024.01.25-22.20.52:840][337]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.25-22.20.52:843][337]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_69:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.25-22.20.53:567][379]LogEditorTransaction: Undo Delete current selection
+[2024.01.25-22.20.53:697][379]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.25-22.20.53:702][379]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_69:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.25-22.23.47:984][765]BlueprintLog: New page: Compile ABP_Manny
+[2024.01.25-22.23.48:000][765]LogBlueprint: Error: [AssetLog] C:\Users\spatank\OneDrive - purdue.edu\Game Dev\CGT_555_08_spatank_\CGT_555_08_spatank\Content\Characters\Mannequins\Animations\ABP_Manny.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_ThirdPersonCharacter  to imply a specific type.
+[2024.01.25-22.23.48:002][765]LogBlueprint: Error: [AssetLog] C:\Users\spatank\OneDrive - purdue.edu\Game Dev\CGT_555_08_spatank_\CGT_555_08_spatank\Content\Characters\Mannequins\Animations\ABP_Manny.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.01.25-22.23.48:101][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.25-22.25.01:997][ 22]BlueprintLog: New page: Compile ABP_Manny
+[2024.01.25-22.25.02:013][ 22]LogBlueprint: Error: [AssetLog] C:\Users\spatank\OneDrive - purdue.edu\Game Dev\CGT_555_08_spatank_\CGT_555_08_spatank\Content\Characters\Mannequins\Animations\ABP_Manny.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_ThirdPersonCharacter  to imply a specific type.
+[2024.01.25-22.25.02:014][ 22]LogBlueprint: Error: [AssetLog] C:\Users\spatank\OneDrive - purdue.edu\Game Dev\CGT_555_08_spatank_\CGT_555_08_spatank\Content\Characters\Mannequins\Animations\ABP_Manny.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.01.25-22.25.02:086][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.01.25-22.25.52:275][197]BlueprintLog: New page: Compile ABP_Manny
+[2024.01.25-22.25.52:363][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.01.25-22.25.53:507][293]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2024.01.25-22.25.53:513][293]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_08_spatank_/CGT_555_08_spatank/Saved/ABP_Manny7E48ED7B4C8C52F8240BE28822FF93F0.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_08_spatank_/CGT_555_08_spatank/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2024.01.25-22.25.53:529][293]AssetCheck: New page: Asset Save: ABP_Manny
+[2024.01.25-22.25.53:529][293]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2024.01.25-22.26.01:537][199]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.25-22.26.01:551][199]LogWorldPartition: Display: GenerateStreaming started...
+[2024.01.25-22.26.01:551][199]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.01.25-22.26.01:551][199]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2024.01.25-22.26.01:551][199]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2024.01.25-22.26.01:551][199]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2024.01.25-22.26.01:551][199]LogWorldPartition: Display: GetPartitionedActors took 31 us
+[2024.01.25-22.26.01:551][199]LogWorldPartition: Display: GenerateStreaming took 172 us
+[2024.01.25-22.26.01:551][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.25-22.26.01:551][199]PIE: New page: PIE session: ThirdPersonMap (Jan 25, 2024, 12:26:01 PM)
+[2024.01.25-22.26.01:551][199]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.25-22.26.01:554][199]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2024.01.25-22.26.01:554][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002426s)
+[2024.01.25-22.26.01:554][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002461s)
+[2024.01.25-22.26.01:554][199]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-22.26.01:554][199]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.25-22.26.01:555][199]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.25-22.26.01:555][199]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2024.01.25-22.26.01:555][199]LogWorldPartition: Display: WorldPartition initialize took 511 us
+[2024.01.25-22.26.01:555][199]LogPlayLevel: PIE: World Init took: (0.001392s)
+[2024.01.25-22.26.01:591][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.01.25-22.26.01:596][199]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.01.25-22.26.01:596][199]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.25-22.26.01:596][199]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.25-22.26.01:596][199]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.25-22.26.01:596][199]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.25-22.26.01:596][199]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.25-22.26.01:596][199]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.25-22.26.01:596][199]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.25-22.26.01:596][199]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.25-22.26.01:597][199]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.25-22.26.01:597][199]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.25-22.26.01:597][199]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.25-22.26.01:599][199]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.25-22.26.01:624][199]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.01.25-22.26.01:624][199]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.25-22.26.01:624][199]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.25-22.26.01:624][199]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.25-22.26.01:625][199]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.01.25-22.26.01:625][199]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.01.25-22.26.01:626][199]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.01.25-22.26.01:626][199]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.01.25-22.26.01:626][199]LogInit: FAudioDevice initialized.
+[2024.01.25-22.26.01:626][199]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonMap'.
+[2024.01.25-22.26.01:638][199]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.25-22.26.01:640][199]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.01.25-17.26.01
+[2024.01.25-22.26.01:640][199]LogWorld: Bringing up level for play took: 0.000935
+[2024.01.25-22.26.01:641][199]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2024.01.25-22.26.01:643][199]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2024.01.25-22.26.01:643][199]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2024.01.25-22.26.01:643][199]PIE: Server logged in
+[2024.01.25-22.26.01:643][199]PIE: Play in editor total start time 0.098 seconds.
+[2024.01.25-22.26.29:899][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-22.26.29:899][575]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.25-22.26.29:900][575]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-22.26.29:900][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-22.26.29:911][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.25-22.26.29:912][575]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: ThirdPersonMap, Actor: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.RT_Jump_From_Stand --> RT_Jump_From_Stand_1
+[2024.01.25-22.26.29:922][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-22.26.29:956][575]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.25-22.26.29:956][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.25-22.26.29:958][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.25-22.26.29:961][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-22.26.29:964][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.25-22.26.29:990][576]LogPlayLevel: Display: Destroying online subsystem :Context_85
